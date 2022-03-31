@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "271168548565",
+    "firebase_url": "https://horus-univ-default-rtdb.firebaseio.com",
+    "project_id": "horus-univ",
+    "storage_bucket": "horus-univ.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271168548565:android:a62340d898d2b7882bbc5c",
+        "android_client_info": {
+          "package_name": "com.elshafee.horus_university"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271168548565-ahonm16pje8vtnfe0efehlmc51i25lo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4uGfbTU5dBZ3fVAs00lEEbx4uxPabOSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271168548565-ahonm16pje8vtnfe0efehlmc51i25lo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
